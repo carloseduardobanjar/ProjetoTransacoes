@@ -1,2 +1,4 @@
-# ProjetoTransacoes
-Projeto que simula um sistema de transações com PHP Orientado a Objetos
+# ProjetoTransações
+## Projeto que simula um sistema de transações com PHP Orientado a Objetos
+
+### Descrição: 
